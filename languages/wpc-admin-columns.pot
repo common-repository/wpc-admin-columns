@@ -1,0 +1,812 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Admin Columns plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Admin Columns 2.0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-admin-columns\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-14T02:42:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-admin-columns\n"
+
+#. Plugin Name of the plugin
+#: includes/class-backend.php:2506
+#: includes/class-backend.php:2516
+msgid "WPC Admin Columns"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Manage and organize columns in the products, orders, and any post types lists in the admin panel."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: includes/class-backend.php:154
+msgid "Are you sure?"
+msgstr ""
+
+#: includes/class-backend.php:155
+msgid "All column organization on this page will be removed. Are you sure?"
+msgstr ""
+
+#: includes/class-backend.php:156
+#: includes/class-backend.php:2067
+#: includes/class-backend.php:2310
+#: includes/class-backend.php:2421
+msgid "Copy"
+msgstr ""
+
+#: includes/class-backend.php:157
+msgid "Copied"
+msgstr ""
+
+#: includes/class-backend.php:158
+#: includes/class-backend.php:323
+msgid "Enabled"
+msgstr ""
+
+#: includes/class-backend.php:159
+#: includes/class-backend.php:323
+msgid "Disabled"
+msgstr ""
+
+#: includes/class-backend.php:161
+msgid "Add Image"
+msgstr ""
+
+#: includes/class-backend.php:162
+msgid "Custom Image"
+msgstr ""
+
+#: includes/class-backend.php:163
+msgid "Got it!"
+msgstr ""
+
+#: includes/class-backend.php:164
+msgid "Click here to take control of columns. Add, remove, or rearrange them as you wish."
+msgstr ""
+
+#: includes/class-backend.php:257
+msgid "Columns"
+msgstr ""
+
+#. translators: screen
+#: includes/class-backend.php:260
+msgid "Columns Manager › %s"
+msgstr ""
+
+#: includes/class-backend.php:280
+msgid "+ Add column"
+msgstr ""
+
+#: includes/class-backend.php:281
+msgid "reset"
+msgstr ""
+
+#: includes/class-backend.php:282
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-backend.php:329
+#: includes/class-backend.php:587
+msgid "Name"
+msgstr ""
+
+#: includes/class-backend.php:335
+#: includes/class-backend.php:599
+msgid "Type"
+msgstr ""
+
+#: includes/class-backend.php:373
+msgid "Content"
+msgstr ""
+
+#: includes/class-backend.php:379
+msgid "Field"
+msgstr ""
+
+#: includes/class-backend.php:391
+msgid "Have no fields."
+msgstr ""
+
+#: includes/class-backend.php:397
+msgid "Data type"
+msgstr ""
+
+#: includes/class-backend.php:400
+msgid "Text"
+msgstr ""
+
+#: includes/class-backend.php:401
+msgid "Number"
+msgstr ""
+
+#: includes/class-backend.php:402
+msgid "Email"
+msgstr ""
+
+#: includes/class-backend.php:403
+msgid "URL"
+msgstr ""
+
+#: includes/class-backend.php:404
+msgid "Color"
+msgstr ""
+
+#: includes/class-backend.php:405
+msgid "Image"
+msgstr ""
+
+#: includes/class-backend.php:406
+msgid "Multiple Images"
+msgstr ""
+
+#: includes/class-backend.php:407
+msgid "True/False"
+msgstr ""
+
+#: includes/class-backend.php:408
+msgid "Yes/No"
+msgstr ""
+
+#: includes/class-backend.php:409
+msgid "On/Off"
+msgstr ""
+
+#: includes/class-backend.php:410
+msgid "Select"
+msgstr ""
+
+#: includes/class-backend.php:411
+msgid "Multiple Select"
+msgstr ""
+
+#: includes/class-backend.php:412
+msgid "Textarea"
+msgstr ""
+
+#: includes/class-backend.php:413
+msgid "Universal"
+msgstr ""
+
+#: includes/class-backend.php:415
+msgid "JSON (JavaScript Object Notation)"
+msgstr ""
+
+#: includes/class-backend.php:421
+msgid "Choices"
+msgstr ""
+
+#: includes/class-backend.php:423
+msgid "Enter each choice on a new line. For more control, you may specify both a value and label like this: red : Red"
+msgstr ""
+
+#: includes/class-backend.php:428
+#: includes/class-backend.php:636
+#: includes/class-backend.php:642
+msgid "Taxonomy"
+msgstr ""
+
+#: includes/class-backend.php:451
+msgid "Editable"
+msgstr ""
+
+#: includes/class-backend.php:454
+#: includes/class-backend.php:472
+#: includes/class-backend.php:803
+#: includes/class-backend.php:950
+#: includes/class-backend.php:1143
+#: includes/class-backend.php:2560
+#: includes/class-backend.php:2570
+msgid "No"
+msgstr ""
+
+#: includes/class-backend.php:455
+#: includes/class-backend.php:473
+#: includes/class-backend.php:802
+#: includes/class-backend.php:949
+#: includes/class-backend.php:1142
+#: includes/class-backend.php:2559
+#: includes/class-backend.php:2569
+msgid "Yes"
+msgstr ""
+
+#: includes/class-backend.php:469
+msgid "Sortable"
+msgstr ""
+
+#: includes/class-backend.php:482
+msgid "Width"
+msgstr ""
+
+#: includes/class-backend.php:492
+msgid "Text align"
+msgstr ""
+
+#: includes/class-backend.php:495
+msgid "start"
+msgstr ""
+
+#: includes/class-backend.php:496
+msgid "center"
+msgstr ""
+
+#: includes/class-backend.php:497
+msgid "end"
+msgstr ""
+
+#: includes/class-backend.php:502
+msgid "Text color"
+msgstr ""
+
+#: includes/class-backend.php:511
+msgid "remove"
+msgstr ""
+
+#: includes/class-backend.php:524
+msgid "Product"
+msgstr ""
+
+#: includes/class-backend.php:528
+msgid "Product ID"
+msgstr ""
+
+#: includes/class-backend.php:529
+msgid "Product SKU"
+msgstr ""
+
+#: includes/class-backend.php:530
+msgid "Product type"
+msgstr ""
+
+#: includes/class-backend.php:531
+msgid "Product type icon"
+msgstr ""
+
+#: includes/class-backend.php:532
+msgid "Product featured image"
+msgstr ""
+
+#: includes/class-backend.php:533
+msgid "Product gallery images"
+msgstr ""
+
+#: includes/class-backend.php:534
+msgid "Product name"
+msgstr ""
+
+#: includes/class-backend.php:535
+msgid "Product slug"
+msgstr ""
+
+#: includes/class-backend.php:536
+msgid "Product status"
+msgstr ""
+
+#: includes/class-backend.php:537
+msgid "Product description"
+msgstr ""
+
+#: includes/class-backend.php:538
+msgid "Product short description"
+msgstr ""
+
+#: includes/class-backend.php:539
+msgid "Product weight"
+msgstr ""
+
+#: includes/class-backend.php:540
+msgid "Product length"
+msgstr ""
+
+#: includes/class-backend.php:541
+msgid "Product width"
+msgstr ""
+
+#: includes/class-backend.php:542
+msgid "Product height"
+msgstr ""
+
+#: includes/class-backend.php:543
+msgid "Product dimensions"
+msgstr ""
+
+#: includes/class-backend.php:544
+msgid "Product taxonomy"
+msgstr ""
+
+#: includes/class-backend.php:545
+msgid "Product variations"
+msgstr ""
+
+#: includes/class-backend.php:546
+msgid "Product actions"
+msgstr ""
+
+#: includes/class-backend.php:547
+msgid "Product meta"
+msgstr ""
+
+#: includes/class-backend.php:548
+#: includes/class-backend.php:560
+#: includes/class-backend.php:638
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-backend.php:552
+msgid "Order"
+msgstr ""
+
+#: includes/class-backend.php:556
+msgid "Order ID"
+msgstr ""
+
+#: includes/class-backend.php:557
+msgid "Order products"
+msgstr ""
+
+#: includes/class-backend.php:558
+msgid "Billing phone"
+msgstr ""
+
+#: includes/class-backend.php:559
+msgid "Shipping phone"
+msgstr ""
+
+#: includes/class-backend.php:564
+msgid "User"
+msgstr ""
+
+#: includes/class-backend.php:567
+msgid "User ID"
+msgstr ""
+
+#: includes/class-backend.php:568
+msgid "User email"
+msgstr ""
+
+#: includes/class-backend.php:569
+msgid "User login name"
+msgstr ""
+
+#: includes/class-backend.php:570
+msgid "User first name"
+msgstr ""
+
+#: includes/class-backend.php:571
+msgid "User last name"
+msgstr ""
+
+#: includes/class-backend.php:572
+msgid "User nice name"
+msgstr ""
+
+#: includes/class-backend.php:573
+msgid "User nickname"
+msgstr ""
+
+#: includes/class-backend.php:574
+msgid "User display name"
+msgstr ""
+
+#: includes/class-backend.php:575
+msgid "User registration date"
+msgstr ""
+
+#: includes/class-backend.php:576
+msgid "User description"
+msgstr ""
+
+#: includes/class-backend.php:577
+msgid "User URL"
+msgstr ""
+
+#: includes/class-backend.php:578
+msgid "User level"
+msgstr ""
+
+#: includes/class-backend.php:579
+msgid "User status"
+msgstr ""
+
+#: includes/class-backend.php:580
+msgid "User meta"
+msgstr ""
+
+#: includes/class-backend.php:584
+msgid "Plugin"
+msgstr ""
+
+#: includes/class-backend.php:588
+#: includes/class-backend.php:601
+#: includes/class-backend.php:613
+#: includes/class-backend.php:629
+msgid "Author"
+msgstr ""
+
+#: includes/class-backend.php:589
+msgid "Version"
+msgstr ""
+
+#: includes/class-backend.php:590
+msgid "Icon"
+msgstr ""
+
+#: includes/class-backend.php:591
+msgid "Description"
+msgstr ""
+
+#: includes/class-backend.php:595
+msgid "Comment"
+msgstr ""
+
+#: includes/class-backend.php:598
+#: includes/class-backend.php:612
+#: includes/class-backend.php:623
+msgid "ID"
+msgstr ""
+
+#: includes/class-backend.php:600
+msgid "Date"
+msgstr ""
+
+#: includes/class-backend.php:602
+msgid "Author email"
+msgstr ""
+
+#: includes/class-backend.php:603
+msgid "Author URL"
+msgstr ""
+
+#: includes/class-backend.php:604
+#: includes/class-backend.php:628
+msgid "Words count"
+msgstr ""
+
+#: includes/class-backend.php:605
+msgid "Post"
+msgstr ""
+
+#: includes/class-backend.php:609
+msgid "Attachment"
+msgstr ""
+
+#: includes/class-backend.php:614
+#: includes/class-backend.php:630
+msgid "Published"
+msgstr ""
+
+#: includes/class-backend.php:615
+#: includes/class-backend.php:631
+msgid "Last modified"
+msgstr ""
+
+#: includes/class-backend.php:619
+#: includes/class-backend.php:2552
+msgid "General"
+msgstr ""
+
+#: includes/class-backend.php:624
+msgid "Slug"
+msgstr ""
+
+#: includes/class-backend.php:625
+msgid "Title"
+msgstr ""
+
+#: includes/class-backend.php:626
+msgid "Status"
+msgstr ""
+
+#: includes/class-backend.php:627
+msgid "Excerpt"
+msgstr ""
+
+#: includes/class-backend.php:632
+msgid "Featured image"
+msgstr ""
+
+#: includes/class-backend.php:633
+msgid "Comment status"
+msgstr ""
+
+#: includes/class-backend.php:634
+msgid "Comment count"
+msgstr ""
+
+#: includes/class-backend.php:635
+msgid "Ping status"
+msgstr ""
+
+#: includes/class-backend.php:637
+msgid "Actions"
+msgstr ""
+
+#: includes/class-backend.php:645
+msgid "Term ID"
+msgstr ""
+
+#: includes/class-backend.php:646
+msgid "Term name"
+msgstr ""
+
+#: includes/class-backend.php:647
+msgid "Term slug"
+msgstr ""
+
+#: includes/class-backend.php:648
+msgid "Term description"
+msgstr ""
+
+#: includes/class-backend.php:649
+msgid "Term meta"
+msgstr ""
+
+#: includes/class-backend.php:653
+msgid "Custom"
+msgstr ""
+
+#: includes/class-backend.php:656
+msgid "Custom field"
+msgstr ""
+
+#: includes/class-backend.php:657
+msgid "Custom text/shortcode"
+msgstr ""
+
+#. translators: field
+#: includes/class-backend.php:742
+#: includes/class-backend.php:889
+#: includes/class-backend.php:1082
+msgid "You are editing the field \"%1$s\" of \"%2$s\"."
+msgstr ""
+
+#: includes/class-backend.php:770
+#: includes/class-backend.php:917
+#: includes/class-backend.php:1110
+msgid "Remove"
+msgstr ""
+
+#: includes/class-backend.php:771
+#: includes/class-backend.php:918
+#: includes/class-backend.php:1111
+msgid "Choose Image"
+msgstr ""
+
+#: includes/class-backend.php:795
+#: includes/class-backend.php:942
+#: includes/class-backend.php:1135
+msgid "True"
+msgstr ""
+
+#: includes/class-backend.php:796
+#: includes/class-backend.php:943
+#: includes/class-backend.php:1136
+msgid "False"
+msgstr ""
+
+#: includes/class-backend.php:809
+#: includes/class-backend.php:956
+#: includes/class-backend.php:1149
+msgid "On"
+msgstr ""
+
+#: includes/class-backend.php:810
+#: includes/class-backend.php:957
+#: includes/class-backend.php:1150
+msgid "Off"
+msgstr ""
+
+#: includes/class-backend.php:872
+#: includes/class-backend.php:1019
+#: includes/class-backend.php:1213
+msgid "Update"
+msgstr ""
+
+#. translators: taxonomy
+#: includes/class-backend.php:1023
+msgid "You are editing the taxonomy \"%1$s\" of \"%2$s\"."
+msgstr ""
+
+#: includes/class-backend.php:1215
+#: includes/class-backend.php:1218
+#: includes/class-backend.php:1236
+msgid "Have an error!"
+msgstr ""
+
+#: includes/class-backend.php:1574
+msgid "Dimensions:"
+msgstr ""
+
+#: includes/class-backend.php:1574
+msgid "Weight:"
+msgstr ""
+
+#. translators: edit
+#: includes/class-backend.php:1728
+#: includes/class-backend.php:2068
+#: includes/class-backend.php:2311
+#: includes/class-backend.php:2422
+msgid "Edit \"%1$s\" of #%2$s"
+msgstr ""
+
+#. translators: edit
+#: includes/class-backend.php:1728
+#: includes/class-backend.php:2068
+#: includes/class-backend.php:2311
+#: includes/class-backend.php:2422
+msgid "edit"
+msgstr ""
+
+#. translators: count
+#: includes/class-backend.php:1907
+msgid "%s variation"
+msgid_plural "%s variations"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: product id
+#: includes/class-backend.php:1908
+msgid "Variations of #%s"
+msgstr ""
+
+#: includes/class-backend.php:1924
+msgid "Edit"
+msgstr ""
+
+#. translators: post title
+#: includes/class-backend.php:1934
+msgid "Restore &#8220;%s&#8221; from the Trash"
+msgstr ""
+
+#: includes/class-backend.php:1935
+msgid "Restore"
+msgstr ""
+
+#. translators: post title
+#: includes/class-backend.php:1942
+msgid "Move &#8220;%s&#8221; to the Trash"
+msgstr ""
+
+#: includes/class-backend.php:1943
+msgctxt "verb"
+msgid "Trash"
+msgstr ""
+
+#. translators: post title
+#: includes/class-backend.php:1952
+msgid "Delete &#8220;%s&#8221; permanently"
+msgstr ""
+
+#: includes/class-backend.php:1953
+msgid "Delete Permanently"
+msgstr ""
+
+#. translators: post title
+#: includes/class-backend.php:1966
+msgid "Preview &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/class-backend.php:1967
+msgid "Preview"
+msgstr ""
+
+#. translators: post title
+#: includes/class-backend.php:1975
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/class-backend.php:1976
+msgid "View"
+msgstr ""
+
+#. translators: post id
+#: includes/class-backend.php:1988
+msgid "Duplicate #%d"
+msgstr ""
+
+#: includes/class-backend.php:2067
+#: includes/class-backend.php:2310
+#: includes/class-backend.php:2421
+msgid "copy"
+msgstr ""
+
+#: includes/class-backend.php:2506
+msgid "Admin Columns"
+msgstr ""
+
+#: includes/class-backend.php:2516
+msgid "Premium"
+msgstr ""
+
+#. translators: stars
+#: includes/class-backend.php:2519
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: includes/class-backend.php:2521
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-backend.php:2522
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-backend.php:2523
+msgid "Discussion"
+msgstr ""
+
+#: includes/class-backend.php:2528
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-backend.php:2534
+#: includes/class-backend.php:2624
+msgid "Settings"
+msgstr ""
+
+#: includes/class-backend.php:2537
+#: includes/class-backend.php:2625
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class-backend.php:2539
+msgid "Essential Kit"
+msgstr ""
+
+#: includes/class-backend.php:2556
+msgid "Personalized"
+msgstr ""
+
+#: includes/class-backend.php:2562
+msgid "Enable it to let each manager has their own columns organization. Their changes will not affect another."
+msgstr ""
+
+#: includes/class-backend.php:2566
+msgid "Enable JSON Editor"
+msgstr ""
+
+#: includes/class-backend.php:2572
+msgid "Enable JSON Editor to editing custom field in JSON format. It uses the library https://github.com/dblate/jquery.json-editor"
+msgstr ""
+
+#: includes/class-backend.php:2641
+msgid "Community support"
+msgstr ""
+
+#: includes/class-backend.php:2706
+msgid "No post to duplicate!"
+msgstr ""
+
+#: includes/class-backend.php:2741
+msgid "Copy creation failed, could not find original:"
+msgstr ""
+
+#: includes/class-duplicate.php:30
+msgid "Untitled"
+msgstr ""
+
+#. translators: order id
+#: includes/class-duplicate.php:239
+msgid "Cloned Order from #%d"
+msgstr ""
+
+#. translators: order id
+#: includes/class-duplicate.php:240
+msgid "Order cloned to #%d"
+msgstr ""
